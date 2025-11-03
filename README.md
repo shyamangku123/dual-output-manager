@@ -57,6 +57,7 @@ dual-output-manager
 ```
 
 Or search **Dual Output Manager** in your desktop applications menu.
+Then select Combined Output on audio output
 
 ---
 
